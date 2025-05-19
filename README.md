@@ -29,3 +29,15 @@ This project focuses on building a deep learning model using Keras to classify s
 git clone <repository-url>
 cd Classification-of-different-type-of-Tamtoes-in-Keras
 ```
+
+2. Setup Environment
+Ensure you have the following dependencies installed:
+```bash
+pip install tensorflow keras numpy matplotlib scikit-learn
+```
+
+3. Train the Model
+You can use the included script or Jupyter Notebook:
+```bash
+python fruit_classification.py
+```
