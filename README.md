@@ -1,20 +1,31 @@
-# Classification-of-different-type-of-Tamtoes-in-Keras
+# Classification of Different Types of Tomatoes in Keras
 
-We have six Types of Tomates for classification, here is the data set for link : https://drive.google.com/drive/folders/1d9YltIRxn_M6aPymWNxct1ZEvedyHalR?usp=sharing
+This project focuses on building a deep learning model using Keras to classify six different types of tomatoes. The model is trained on a custom dataset and is capable of distinguishing tomato varieties based on their visual features.
 
-Just Dowonload the dataset and Upload in your drive and go for it,
+---
 
-A trained model is also attached in here which can be use directly.
+## 📂 Dataset
 
-Despriction about dataset:::::::::::::
+- **Download Link:**  
+  [Tomato Dataset on Google Drive](https://drive.google.com/drive/folders/1d9YltIRxn_M6aPymWNxct1ZEvedyHalR?usp=sharing)
 
-The Fruits dataset is an image classification dataset of various fruits against white backgrounds from various angles, originally open sourced by GitHub user horea. This is a subset of that full dataset.
+- **Instructions:**  
+  Download the dataset and upload it to your Google Drive. The dataset includes labeled images of six tomato types against white backgrounds, captured from various angles. This is a subset of the original open-source fruit dataset by GitHub user `horea`.
 
-Use Cases::::::::::::::::
-Build a fruit classifier! This could be a just-for-fun project just as much as you could be building a color sorter for agricultural use cases before fruits make their way to market.
+---
 
-Using this Dataset:::
+## 🧠 Use Cases
 
-Use the fork button to copy this dataset to your own Roboflow account and export it with new preprocessing settings (perhaps resized for your model's desired format or converted to grayscale), or additional augmentations to make your model generalize better. This particular dataset would be very well suited for Roboflow's new advanced Bounding Box Only Augmentations.
+- Tomato variety classification for educational or research purposes  
+- Agricultural automation and quality control  
+- Building a color sorter or visual classifier before tomatoes reach the market
 
+---
 
+## 🛠️ How to Use
+
+### 1. Clone the Repository
+```bash
+git clone <repository-url>
+cd Classification-of-different-type-of-Tamtoes-in-Keras
+```
